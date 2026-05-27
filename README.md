@@ -51,12 +51,14 @@
 ---
 
 ## 📁 Repository Structure
-Customer-churn-analytics/
-├── app.py                    # Streamlit web app
-├── requirements.txt          # Dependencies
-├── churn_data_powerbi.csv    # Risk-segmented dataset
-└── churn_model.pkl           # Trained XGBoost model
 
+```
+Customer-churn-analytics/
+├── app.py                    
+├── requirements.txt          
+├── churn_data_powerbi.csv    
+└── churn_model.pkl           
+```
 ---
 
 ## 🚀 How to Run Locally
