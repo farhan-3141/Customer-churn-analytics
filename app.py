@@ -31,11 +31,11 @@ with st.sidebar:
 # Load data and model
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/churn_data_powerbi.csv")
+    return pd.read_csv("churn_data_powerbi.csv")
 
 @st.cache_resource
 def load_model():
-    return joblib.load("data/churn_model.pkl")
+    return joblib.load("churn_model.pkl")
 
 df = load_data()
 model = load_model()
