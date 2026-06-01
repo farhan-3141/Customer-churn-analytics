@@ -1,6 +1,7 @@
 # 📊 Customer Churn Analysis & Retention Dashboard
 
 🚀 **Live App:** https://churn-analytics-farhan.streamlit.app
+📓 **View Analysis Notebook:** [Click here to view full analysis](https://nbviewer.org/github/farhan-3141/Customer-churn-analytics/blob/main/churn_analysis_clean.ipynb)
 
 > End-to-end churn analytics on 7,043 Telco customer records 
 > with XGBoost, SHAP explainability, SQL cohort analysis, 
